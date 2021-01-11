@@ -4,7 +4,7 @@
 
 using namespace llvm;
 
-namespace llvm {
+namespace llvm::noelle {
 
 // BitMatrix is a NxN bit-matrix that depicts whether a relation R
 // holds for a pair with indices (i,j) (i.e., R(i,j) = 0/1)

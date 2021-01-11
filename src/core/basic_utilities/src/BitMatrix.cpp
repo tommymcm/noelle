@@ -1,6 +1,6 @@
 #include "BitMatrix.hpp"
 
-namespace llvm {
+namespace llvm::noelle {
 
 void BitMatrix::resize(uint32_t n) {
   N = n;
