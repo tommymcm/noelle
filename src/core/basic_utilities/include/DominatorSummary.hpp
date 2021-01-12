@@ -12,7 +12,7 @@
 
 #include "SystemHeaders.hpp"
 
-namespace llvm {
+namespace llvm::noelle {
 
   namespace DTAliases {
     using Node = DomTreeNodeBase<BasicBlock>;

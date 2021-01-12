@@ -12,6 +12,7 @@
 #include "DominatorSummary.hpp"
 
 using namespace llvm;
+using namespace llvm::noelle;
 
 /*
  * Dominator Node Summary implementation

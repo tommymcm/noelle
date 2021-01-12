@@ -12,7 +12,7 @@
 
 #include <vector>
 
-namespace llvm {
+namespace llvm::noelle {
 
   class Queue {
     public:
