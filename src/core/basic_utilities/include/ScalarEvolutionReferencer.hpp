@@ -12,7 +12,9 @@
 
 #include "SystemHeaders.hpp"
 
-namespace llvm {
+using namespace llvm;
+
+namespace llvm::noelle {
 
   class SCEVReference;
   class SCEVValueMapper;

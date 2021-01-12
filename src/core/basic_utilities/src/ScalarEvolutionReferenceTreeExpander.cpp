@@ -21,6 +21,7 @@
 #include "llvm/Support/raw_ostream.h"
 
 using namespace llvm;
+using namespace llvm::noelle;
 
 ReferenceTreeExpander::ReferenceTreeExpander (
   SCEVReference *tree,
