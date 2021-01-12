@@ -11,6 +11,7 @@
 #include "ScalarEvolutionDelinearization.hpp"
 
 using namespace llvm;
+using namespace llvm::noelle;
 
 bool ScalarEvolutionDelinearization::getIndexExpressionsFromGEP(
   ScalarEvolution &SE,
